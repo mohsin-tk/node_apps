@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="2" failures="0" errors="0" time="0.332">
+  <testsuite name="GET /" errors="0" failures="0" skipped="0" timestamp="2024-11-11T09:10:01" time="0.311" tests="2">
+    <testcase classname="GET / should return status 200 and &quot;Hello, World from the backend!&quot;" name="GET / should return status 200 and &quot;Hello, World from the backend!&quot;" time="0.018">
+    </testcase>
+    <testcase classname="Test Server Running should return 404 for an undefined route" name="Test Server Running should return 404 for an undefined route" time="0.005">
+    </testcase>
+  </testsuite>
+</testsuites>
